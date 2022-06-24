@@ -1,0 +1,170 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+.card_comp2 {
+    border-radius: 1rem;
+    padding-bottom: 10px;
+    padding-right: -4%;
+    padding-top: -70rem;
+    margin-top: 2%;
+    background-color: #578ab0;
+    width: 50%;
+    height: 32vh;
+    margin-left: 40%;
+}
+
+.postLine {
+    margin-top: 60%;
+    margin-right: -3%;
+}
+
+.postLineDone {
+    margin-top: 42%;
+}
+
+.noLogin {
+    margin-top: -50%;
+}
+
+.Card_compImg2 {
+    margin-right: 1%;
+    border-radius: 100%;
+    margin-left: -65%;
+    margin-top: 3%;
+    height: 10rem;
+}
+
+.cardContent2 {
+    margin-top: -16%;
+    margin-left: 30%;
+    font-size: 16px;
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    color: white;
+    line-height: 9%;
+    font-weight: 100;
+}
+
+.price2 {
+    margin-left: 15%;
+    margin-top: 4%;
+    color: white;
+}
+
+.star {
+    color: white;
+    margin-left: 50%;
+    margin-top: -4%;
+}
+
+.title2 {
+    margin-bottom: 2%;
+    font-size: 22px;
+}
+
+.MainCard2 {
+    margin-top: -30%;
+    margin-left: -10%;
+    scroll-behavior: none;
+    width: 100%;
+}
+
+.houseIcon {
+    color: white;
+    margin-bottom: -2%;
+    height: 15px;
+}
+
+.Tabdiv {
+    margin-top: 2%;
+    margin-left: -10%;
+}
+
+.p {
+    padding-top: 25%;
+    padding-bottom: 15%;
+    font-size: 22px;
+    color: antiquewhite;
+}
+
+.b {
+    margin: 2%;
+}
+
+.Up_login_container {
+    height: 50%;
+    width: 50%;
+    background-color: #004a5f;
+    margin-left: 25%;
+    margin-top: 10%;
+    text-align: center;
+}
+
+.cancel {
+    margin-left: 60%;
+    margin-top: -5%;
+}
+
+
+/* prvious card */
+
+.card_comp_previous {
+    border-radius: 1rem;
+    padding-bottom: 10px;
+    padding-right: -4%;
+    padding-top: -40rem;
+    margin-top: 4%;
+    background-color: #578ab0;
+    width: 50%;
+    height: 32vh;
+    margin-left: 40%;
+}
+
+.MainCard2_previous {
+    margin-top: -28%;
+    margin-left: -9%;
+    scroll-behavior: none;
+    width: 100%;
+}
+
+.Card_compImg2_previous {
+    margin-right: 1%;
+    border-radius: 100%;
+    margin-left: -65%;
+    margin-top: 3%;
+    height: 10rem;
+}
+
+.cardContent2_previous {
+    margin-top: -18%;
+    margin-left: 32%;
+    font-size: 16px;
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    color: white;
+    line-height: 8%;
+    font-weight: 100;
+}
+
+.review2 {
+    padding: 1%;
+    margin-left: -4px;
+}
+
+.service2 {
+    padding: 1%;
+    margin-left: -4px;
+}
+
+.status2 {
+    padding: 1%;
+    margin-left: -4px;
+}
+
+.headding {
+    text-decoration: underline;
+}
+
+.title2_previous {
+    font-style: normal;
+}

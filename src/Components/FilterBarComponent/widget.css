@@ -1,0 +1,18 @@
+    .sidebar {
+        background-color: #004A5F;
+        width: 280px;
+        height: 70vh;
+        font-size: 26px;
+        margin-top: -35%;
+        margin-left: 1%;
+        color: white;
+        gap: 5%;
+        position: fixed;
+        box-shadow: 8px 8px 8px -4px #3c636e;
+        text-align: center;
+    }
+    
+    .filter {
+        font-size: 25px;
+        padding-top: 1rem;
+    }

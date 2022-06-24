@@ -1,0 +1,16 @@
+div .dropdown {
+    display: inline-flex;
+    gap: 30px;
+    align-items: center;
+    /* top: 20px; */
+    /* margin-bottom: 20px; */
+}
+
+#dropdown-basic-button {
+    color: white;
+    background-color: #578AB0;
+}
+
+.dropdown {
+    background-color: none;
+}

@@ -1,0 +1,73 @@
+.Chat_container {
+    display: flex;
+    flex-direction: row;
+    margin-top: 13%;
+}
+
+.content_chat {
+    display: flex;
+    flex-direction: column;
+    margin-top: 0%;
+    margin-left: 5%;
+}
+
+.chatscreen_div {
+    width: 560px;
+    height: 370px;
+    border-radius: 5%;
+    background-color: white;
+    border: 2px solid rgb(201, 192, 192);
+    margin-bottom: 2%;
+    box-shadow: 2px 2px 2px #cccccc;
+}
+
+.Message_div {
+    color: white;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+.Messageimagediv {
+    display: flex;
+    flex-direction: row;
+    width: 260px;
+    border-radius: 10px;
+    background-color: #578AB0;
+    margin-top: 3%;
+    margin-left: 1%;
+    padding: 1%;
+}
+
+.phtchat_user {
+    border-radius: 50%;
+    width: 45px;
+    height: 45px;
+}
+
+.typinginput {
+    width: 560px;
+    height: 50px;
+    background-color: white;
+    border: 1px solid rgb(201, 192, 192);
+    box-shadow: 2px 2px 2px #cccccc;
+    border-radius: 25px;
+}
+
+.placeholder_chat {
+    padding: 2%;
+    color: gray;
+    text-align: left;
+}
+
+.MdPlayArrow_icon {
+    width: 165px;
+    height: 35px;
+    margin-left: 443px;
+    margin-top: -80px;
+    color: #004A5F;
+}
+
+.type_div {
+    display: flex;
+    flex-direction: row;
+}

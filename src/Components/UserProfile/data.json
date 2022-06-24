@@ -1,0 +1,20 @@
+[{
+        "id": "1",
+        "Pname": "Alex Thomas",
+        "Reviews": "4.6/5",
+        "Status": "Payment Done",
+        "Delete": "Cancel Appointment",
+        "imgsrc": "https://sandbox-uploads.imgix.net/u/1647304169-0271c2925ce21a0fbe5609c75fefc50d?w=500&h=500"
+
+    },
+    {
+        "id": "2",
+        "Pname": "Noah Paul",
+        "Reviews": "4.8/5",
+        "Status": "Payment Done",
+        "Delete": "Cancel Appointment",
+        "imgsrc": "https://sandbox-uploads.imgix.net/u/1647303869-d1052a0881eb8e5c00466cf534d73e87?w=500&h=500"
+
+
+    }
+]

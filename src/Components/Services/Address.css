@@ -1,0 +1,121 @@
+.content_address {
+    display: flex;
+    flex-direction: row;
+    margin-left: 0px;
+    margin-top: 13%;
+}
+
+.writeaddress_div {
+    text-align: left;
+    padding: 1%;
+    background-color: white;
+    margin-right: 12px;
+    margin-left: 4%;
+    margin-top: 0%;
+    width: 50%;
+    height: 458px;
+    border: 1px solid #cccccc;
+    border-radius: 3%;
+}
+
+.innerAddress_div {
+    border: 1px solid #cccccc;
+    box-shadow: 1px 1px 1px #cccccc;
+    height: 360px;
+    padding: 10px;
+    text-align: left;
+    border-radius: 3%;
+}
+
+.txtareaAddress {
+    height: 70px;
+    width: 300px;
+    margin-left: 0%;
+    margin-top: 1%;
+}
+
+.StreethouseandTitle_div {
+    display: flex;
+    flex-direction: row;
+}
+
+.Title_div {
+    margin-left: 2%;
+}
+
+.Btn_div {
+    display: flex;
+    flex-direction: row;
+    margin-top: 3%;
+}
+
+.bttn {
+    margin-left: 25px;
+    width: 150px;
+    margin-right: 10px;
+}
+
+.btnsaveaddress {
+    color: #004A5F;
+    text-align: center;
+    border-color: #004A5F;
+    padding: 1%;
+    border-radius: 3px;
+    width: 200px;
+    margin-left: 35%;
+}
+
+.btnsaveaddress:hover {
+    color: white;
+    background-color: #004A5F;
+}
+
+.btnnextaddress {
+    color: #004A5F;
+    text-align: center;
+    border-color: #004A5F;
+    padding: 1%;
+    border-radius: 3px;
+    width: 200px;
+    margin-left: 70%;
+}
+
+.btnnextaddress:hover {
+    color: white;
+    background-color: #004A5F;
+}
+
+.text_line {
+    width: 284px;
+    margin-left: 1%;
+}
+
+.Additionalinfo_div {
+    margin-top: 2%;
+}
+
+.rightaddress_div {
+    width: 250px;
+    height: 450px;
+    border: 1px solid #cccccc;
+    box-shadow: 1px 1px 1px #cccccc;
+    border-radius: 2%;
+    padding: 9px;
+}
+
+.radio_div {
+    display: flex;
+    flex-direction: row;
+}
+
+.card_address {
+    /* border: 1px solid #004A5F;  */
+    width: 180px;
+    height: 150px;
+    margin-left: 12px;
+    background-color: #578AB0;
+    color: white;
+    border: 1px solid #cccccc;
+    box-shadow: 1px 1px 1px #c0c0c0;
+    border-radius: 2%;
+}
